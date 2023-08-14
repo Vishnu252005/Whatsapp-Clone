@@ -1,7 +1,6 @@
 ## WhatsApp UI Clone
 WhatsApp UI Clones using TailwindCSS ⚡
 
-### <a href="https://whatsappwebui.netlify.app" target="_blank">**Visit Now 🚀**</a>
 
 ## Tech Stack :
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Web-UI-Clones/search?l=html)
@@ -12,9 +11,9 @@ WhatsApp UI Clones using TailwindCSS ⚡
 [![web](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://instagramwebui.netlify.app)
 
 ## Sneak Peek of Site 🙈 :
-![whatsapp](https://user-images.githubusercontent.com/64949957/130730909-2dbb73fb-9157-41e3-89ac-740237b083b5.PNG)
+![Web capture_14-8-2023_144931_127 0 0 1](https://github.com/jigar-sable/Basic_Banking_App/assets/141705372/1d71e7b0-6bd4-439e-a7a4-4472841a2209)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 
